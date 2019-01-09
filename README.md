@@ -1,1 +1,0 @@
-# DesignPattern_Singleton_Facade_Decorator_Strategy
