@@ -1,0 +1,13 @@
+1.Git clone https://github.com/weo94/DesignPattern_Singleton_Facade_Decorator_Strategy.git
+2.git add -A
+3. git commit -a -m "some message"
+
+Zmiany na repozytorium:
+4.$ git push https://github.com/weo94/DesignPattern_Singleton_Facade_Decorator_Strategy.git master
+
+
+
+
+W celu zaciagniecia zmian:
+5. git pull https://github.com/weo94/DesignPattern_Singleton_Facade_Decorator_Strategy.git master
+
